@@ -15,13 +15,13 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 Clone the project
 
 ```bash
-  git clone https://github.com/dhatguy/PERN-Store.git
+  git clone https://github.com/jasonhall0081/mern-store.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd PERN-Store
+  cd mern-store
 ```
 
 Install dependencies
